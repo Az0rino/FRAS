@@ -15,6 +15,17 @@ FEATURES:
 4) Creates a new CSV file everyday for attendance and marks attendance with proper date and time.
 5) Displays live attendance updates for the day on the main screen in tabular format with Id, name, date and time.
 
+Install  modules:
+1) pip install tk-tools
+2) pip install opencv-contrib-python
+3) pip install datetime
+4) pip install pytest-shutil
+5) pip install python-csv
+6) pip install numpy
+7) pip install pillow 
+8) pip install pandas
+9) pip install times
+
 # SCREENSHOTS
 MAIN SCREEN:
 ![Screenshot (9)](https://user-images.githubusercontent.com/37211676/58502148-97ec2a00-81a3-11e9-963e-674b9c3e05dc.png)
